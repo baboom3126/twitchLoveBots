@@ -5,6 +5,20 @@ oauth:66gljm9mzivuzpo4r9ry3j9xcg5j7s,蟹河鹹4
 oauth:8yoyj9n03cl8dx5zqrenw4n318alpw,螺痣詳5
 oauth:95twap281qbezyg05341ruuzybs2mk,琳菌節6
 oauth:holwmbdrz32sknb91af0frjcbmbftm,酒拔刀7
+oauth:7lgfebbr0w7d30iuc65l6k2tdtt8db,倪氨冬8
+oauth:yt1dnhurkwnwz8gah2srnuhznp7qnf,阿雞屍9
+oauth:9ib4pvn0zfat771uucstkhfpq8q7xr,晨炳利10
+oauth:rgtp1798mbtcza80wa97n8ctel0gdf,汁王
 
+亡麗紅 無異煩 蟹河鹹 螺痣詳 琳菌節 酒拔刀 倪氨冬 阿雞屍 晨炳利R翔
 
-亡麗紅 無異煩 蟹河鹹 螺痣詳 琳菌節 酒拔刀 倪氨冬 阿雞屍 R翔 晨炳利
+forever stop -c python3.8 main.py
+forever stop -c python3.8 bot2.py
+forever stop -c python3.8 bot3.py
+forever stop -c python3.8 bot4.py
+forever stop -c python3.8 bot5.py
+forever stop -c python3.8 bot6.py
+forever stop -c python3.8 bot7.py
+forever stop -c python3.8 bot8.py
+forever stop -c python3.8 bot9.py
+forever stop -c python3.8 bot10.py

@@ -6,7 +6,7 @@ load_dotenv()
 class BotLeader(commands.Bot):
 
     def __init__(self):
-        super().__init__(token='oauth:gi98ygl663er2hotme0ztkzzo1jcjv', prefix='??', initial_channels=[os.getenv('CHANNEL')])
+        super().__init__(token='oauth:rgtp1798mbtcza80wa97n8ctel0gdf', prefix='??', initial_channels=[os.getenv('CHANNEL')])
 
     async def event_ready(self):
         print(f'Logged in as | {self.nick}')
