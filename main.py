@@ -10,7 +10,7 @@ class BotLeader(commands.Bot):
 
     async def event_ready(self):
         print(f'Logged in as | {self.nick}')
-
+        print(os.getenv('CHANNEL'))
     async def event_message(self, message):
         if message.echo:
             return

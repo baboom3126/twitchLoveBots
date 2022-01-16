@@ -17,7 +17,7 @@ class BotChild(commands.Bot):
         else:
             ctx = await self.get_context(message)
             msg = message.content
-            if(message._author.name == 'johndoe__001'):
+            if(message._author.name == 'johndoe__000'):
                 await ctx.send(msg)
 
 
